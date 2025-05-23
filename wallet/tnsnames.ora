@@ -1,0 +1,8 @@
+ecomarket_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g64e31662536199_ecomarket_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+ecomarket_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g64e31662536199_ecomarket_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+ecomarket_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g64e31662536199_ecomarket_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
